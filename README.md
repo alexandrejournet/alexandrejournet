@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hello ! I'm a Software Engineer with an addiction to .NET Core and Angular !<br><br>🔭 Currently working on a CRM (Angular + .NET Core) and a Git GUI (Electron, Angular and Nodegit)<br><br>📧 Shoot me on email or add me on LinkedIn !
+🚀 Hello ! I'm a Software Engineer with an addiction to .NET Core and Angular !<br><br>🔭 Currently working on a building my own portfolio CRM and a Git GUI (Electron, Angular and Nodegit)<br><br>📧 Shoot me on email or add me on LinkedIn !
 
 
 ## 🌐 Socials:
