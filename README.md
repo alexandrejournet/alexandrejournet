@@ -1,5 +1,11 @@
 # 💫 About Me:
-🚀 Hello ! I'm a Software Engineer with an addiction to .NET and Angular !<br><br>🔭 Currently working on a building my own portfolio, a .NET API boilerplate and a Git GUI (Electron, Angular and Nodegit maybe switch from Electron to Tauri)<br><br>📧 Shoot me on email or add me on LinkedIn !
+🚀 Hello ! I'm a Software Engineer with an addiction to .NET and Angular !
+
+🔭 Currently working on a building documentations for Radiant.NET !
+
+Also working on my own portfolio and a Git GUI (Electron, Angular and Nodegit maybe switch from Electron to Tauri)
+
+<br>📧 Shoot me on email or add me on LinkedIn !
 
 
 ## 🌐 Socials:
