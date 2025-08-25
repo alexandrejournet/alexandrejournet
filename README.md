@@ -1,9 +1,9 @@
 # 💫 About Me:
 🚀 Hello ! I'm a Software Engineer with an addiction to .NET and Angular !
 
-🔭 Currently working on a building documentations for Radiant.NET !
+🔭 Currently working on a building documentations for Solstice !
 
-Also working on my own portfolio and a Git GUI (Electron, Angular and Nodegit maybe switch from Electron to Tauri)
+Also working on my own portfolio and a Git GUI (come from Electron, Angular and Nodegit and switching from Electron to Tauri)
 
 <br>📧 Shoot me on email or add me on LinkedIn !
 
